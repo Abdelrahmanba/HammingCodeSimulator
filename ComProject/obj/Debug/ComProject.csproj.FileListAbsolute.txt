@@ -1,0 +1,9 @@
+C:\Users\babaa\source\repos\ComProject\ComProject\bin\Debug\ComProject.exe.config
+C:\Users\babaa\source\repos\ComProject\ComProject\bin\Debug\ComProject.exe
+C:\Users\babaa\source\repos\ComProject\ComProject\bin\Debug\ComProject.pdb
+C:\Users\babaa\source\repos\ComProject\ComProject\obj\Debug\ComProject.Form1.resources
+C:\Users\babaa\source\repos\ComProject\ComProject\obj\Debug\ComProject.Properties.Resources.resources
+C:\Users\babaa\source\repos\ComProject\ComProject\obj\Debug\ComProject.csproj.GenerateResource.cache
+C:\Users\babaa\source\repos\ComProject\ComProject\obj\Debug\ComProject.csproj.CoreCompileInputs.cache
+C:\Users\babaa\source\repos\ComProject\ComProject\obj\Debug\ComProject.exe
+C:\Users\babaa\source\repos\ComProject\ComProject\obj\Debug\ComProject.pdb
